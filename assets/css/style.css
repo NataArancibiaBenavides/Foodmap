@@ -18,10 +18,34 @@
 color:#ED971D;
 text-align: center;
 margin-top: 50px;
+font-size: 50px;
 }
-#SegundaPag iframe{
-	margin-top: 100px;
-	margin-left: 70px;
-	display: block;
+ iframe{
+	width: 100%;
 	
+}
+.linea {
+	width: 100%
+}
+.fa-square-o {
+	color:#fff;
+	
+}
+.linea i{
+	font-size: 20px;
+}
+#cuadrado1{
+	float: right;
+	top:0px;
+}
+.barr{
+	width: 50%;
+	
+}
+.barr li a{
+	background:#FADC4E;
+	width: 100%;
+}
+.form-control{
+	background-color: #E6FCA3;
 }
