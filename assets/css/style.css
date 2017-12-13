@@ -1,0 +1,27 @@
+
+
+#Titulo {
+	background-color:#2D2929;
+	height: 667px;
+}
+
+#Titulo h1{
+	margin-top: 300px;
+	color:#ED971D;
+	text-align: center;
+}
+#SegundaPag{
+	background-color:#2D2929;
+	height: 667px;
+}
+#SegundaPag h1{
+color:#ED971D;
+text-align: center;
+margin-top: 50px;
+}
+#SegundaPag iframe{
+	margin-top: 100px;
+	margin-left: 70px;
+	display: block;
+	
+}
