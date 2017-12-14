@@ -54,6 +54,12 @@ font-size: 50px;
 .form-control{
 	background-color: #E6FCA3;
 }
----
+
+#img1 img{
+	width: 50%;
+	height: 50%;
+
+
+}
 
 
